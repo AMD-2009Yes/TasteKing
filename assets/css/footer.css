@@ -1,0 +1,28 @@
+
+/* footer */
+
+footer {
+  background: linear-gradient(to bottom, #97831e, #543a06);
+  font-size: 20px;
+}
+footer section {
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+details > summary {
+  list-style: none;
+}
+footer details {
+  background-color: white;
+  border-radius: 20px;
+  padding: 12px;
+  margin: 16px;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+  padding-top: 5px;
+}
+
+/* ! footer ! */
